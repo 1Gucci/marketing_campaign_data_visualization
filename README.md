@@ -1,4 +1,4 @@
-## [Project 3: Marketing Campaign Analytics - Data Visualization]
+## [Project 3: AdventureWorks Performance Report]
 ### Introduction
 AdventureWorks is a fictitious multinational manufacturing company which sells bicycles and accessories. This dataset includes several tables:
 - Sales (Fact table)
